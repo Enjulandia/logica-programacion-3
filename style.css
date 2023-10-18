@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif; /* Cambia la fuente del texto */
+    background-color: #3a3a3a; /* Agrega un color de fondo gris */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+h1 {
+    color: #f1dada; /* Cambia el color del texto */
+}
